@@ -5,7 +5,6 @@
 I'm a System Developer and software engineering / technology enthusiast. 
  
 - I'm currently working at Philips as a full stack developer/analyst (JavaScript, Java, ObjectPascal and Oracle PL/SQL).
-- I’m currently working on my undergraduate thesis project.
 - I’m currently learning about software engineering, system architecture and design patterns.
 - I’m looking to collaborate on open-source tooling.
 - Ask me about system development in general.
