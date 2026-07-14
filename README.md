@@ -4,7 +4,7 @@
 
 I'm a System Architect / technology enthusiast. 
  
-- I'm currently working at Philips as a System Architect.
+- I'm currently working at Capgemini as a Tech Lead.
 - I’m looking to collaborate on open-source tooling.
 - Ask me about system development in general.
 - Pronouns: He/Him
