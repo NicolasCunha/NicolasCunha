@@ -8,8 +8,6 @@ I'm a System Architect / technology enthusiast.
 - I’m looking to collaborate on open-source tooling.
 - Ask me about system development in general.
 - Pronouns: He/Him
- 
-![Profile views](https://gpvc.arturio.dev/NicolasCunha)  <img src="https://img.shields.io/github/followers/NicolasCunha?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 
